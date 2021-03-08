@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+body p {
+    color: #cdddbd;
+    margin-top: 50px;
+}
+body h1{
+    color: white; 
+    font-size: 70px;
+    text-transform: capitalize;
+}
+h1 span {
+color: rgb(255,255,0);
+}
+
+header ul {
+    text-align: right;
+    margin-left: 50px;
+    width: 50%;
+}
+header ul li{
+list-style: none;
+display: inline;
+margin-left: 20px;
+}
+header ul li a {
+    text-decoration: none;
+    color: rgb(255,255,0);
+    font-size: 18px;
+}
+footer{
+    background-color: rgba(218, 214, 17, 0.6);
+}
